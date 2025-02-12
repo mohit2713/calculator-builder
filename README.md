@@ -1,7 +1,7 @@
 # React Calculator Builder
 
-[Demo Link] <!-- Add your deployed demo link here -->
-[Short Video Link] <!-- Add your deployed demo link here -->
+#[Demo Link] :- https://gentle-flan-473837.netlify.app/
+#[Short Video Link] :- https://drive.google.com/file/d/1jlAPU-6TE9O-QvBpXFiPf6yfx4sdcrTk/view?usp=sharing
 
 ## Overview
 React Calculator Builder is an interactive web application that allows users to create custom calculators through a drag-and-drop interface. Users can dynamically add, remove, and position calculator components while seeing real-time calculation results.
